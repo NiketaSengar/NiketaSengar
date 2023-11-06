@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketasengar&" alt="niketasengar" /></p>
 
 
-[![An image of @niketasengar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niketasengar)](https://holopin.io/@niketasengar)
+[![An image of @niketasengar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niketasengar)](https://holopin.io/@niketasengar) 
