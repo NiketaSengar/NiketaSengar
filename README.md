@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Niketa Sengar</h1>
-<h3 align="center">I'm passionate about Front-end Development and Data Science </h3>
+<h3 align="center">I'm passionate about Deep Learning and Analysis </h3>
 <img align="right" alt="graph" width="400" src="https://blog.revolutionanalytics.com/downloads/datasaurus.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketasengar&label=Profile%20views&color=0e75b6&style=flat" alt="niketasengar" /> </p>
 
-- 🌱 I’m currently learning **frontEnd and data Analysis**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **sinkingsun00@gmail.com**
 
